@@ -24,13 +24,13 @@ Bam!
 - left bumper is ctrl
 - right bumper is shift
 - left back button is alt
-- right back button is meta
+- right back button is meta/super
 - left analog is arrow keys
-- clicking it is middle mouse
+- clicking it is tab
 - right analog is still the mouse, cicking it enables "fast mouse"
-- dpad left is "undo", dpad right is "redo"
-- select is "copy", start is "paste"
-- menu is the "right meta" key which I map to my [speech to text scripts](https://github.com/RangerMauve/mauve-dictation/)
+- dpad left is "page up", dpad right is "page down"
+- select is "copy", start is "paste", some apps might need to be configured to properly detect these keys
+- menu in the bottom right is middle click
 
 ---
 
